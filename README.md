@@ -1,6 +1,7 @@
 # McCarthy-AI-Roadmap
 Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
 
+> Dependency Tree
 ![alt text](./images/Workplan.png)
 
 # Primer
