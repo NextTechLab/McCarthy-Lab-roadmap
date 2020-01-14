@@ -1,4 +1,4 @@
-# Minsky-AI-Roadmap
+# McCarthy-AI-Roadmap
 Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
 
 ## Data Structures and Algorithms
