@@ -1,8 +1,9 @@
 # McCarthy-AI-Roadmap
 Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
 
-# Primer
+![alt text](./images/Workplan.png)
 
+# Primer
 ## 1. <u>Data Science Stack</u>
 > Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
 + Python
