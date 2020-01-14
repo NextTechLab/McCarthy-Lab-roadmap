@@ -27,13 +27,13 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nexte
 + [TensorFlow](https://www.tensorflow.org/tutorials/)
     + Use [tf.keras](https://www.tensorflow.org/guide/keras) as a High level wrapper
 
-## Reinforcement Learning - Libraries
+## 4.Reinforcement Learning - Libraries
 + [TensorLayer](https://github.com/tensorlayer/tensorlayer)
 + [Keras-RL](https://github.com/keras-rl/keras-rl)
 
 # Mooc Resources
 
-## 1. <u>Data Structures and Algorithms</u>
+## <u>Data Structures and Algorithms</u>
 + [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
 + [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 + [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) 
