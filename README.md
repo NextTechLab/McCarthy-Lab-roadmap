@@ -112,4 +112,5 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL) 
 + [Chai Time Data Science By Sanyam Bhutani](https://open.spotify.com/show/7IbEWJjeimwddhOZqWe0G1?si=h6-BhMuBQ2mkw5rTHnhQFQ)
 + [Linear Digressions](http://lineardigressions.com/)
+
 #### Feel free to make Pull Requests stating why that particular resource should be added.
