@@ -1,5 +1,5 @@
 # McCarthy-AI-Roadmap
-Roadmap to learn AI for associates at Minsky Lab@[Next Tech Lab](https://nextech.io/home)
+Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
 
 # Primer
 
