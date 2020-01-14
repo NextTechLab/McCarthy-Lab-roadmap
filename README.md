@@ -57,6 +57,14 @@ Note :
 + [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 + [Practial RL - Yandex Data School](https://github.com/yandexdataschool/Practical_RL)
 
+## Deploying/Shipping Projects:
+<b> Feel free to use any of these frameworks, all are not required </b>
++ [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
++ [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment?)
++ [Django](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
++ [Flask](https://www.tutorialspoint.com/flask/index.htm)
++ [Flutter](https://www.tutorialspoint.com/flutter/index.htm)
+
 
 # Books and Further reading material
 
@@ -93,7 +101,4 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## Deploying/Shipping Projects:
-+ [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
-+ Misc: Learn/Read about Flask or Django, Jinja2, Gunicorn3, Nginx, Apache Tomcat/HTTP servers, WAMP, AWS EC2/S3/Lambda etc.
 #### Feel free to make Pull Requests stating why that particular resource should be added.
