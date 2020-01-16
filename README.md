@@ -6,11 +6,13 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nexte
 
 # Primer
 ## 1. <u>Data Science Stack</u>
-> Best places to learn - https://www.python-course.eu/ or https://www.datacamp.com/
+> Best places to learn - https://www.python-course.eu/  , https://www.datacamp.com/ , https://www.pythonprogramming.net/
 + Python
 + NumPy
 + Pandas
 + Matplotlib and Seaborn
++ scikit-learn 
++ SciPy
 
 ## 2. <u>Technology Stack</u>
 + Basic computer architecture:
@@ -102,5 +104,13 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+# Podcasts to Follow Interesting Developments In The Field 
+
++ [The Data Skeptic ](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=gv3IrtPzQs6F9phaHDGpSQ)
++ [The AI Podcast - Nvidia](https://soundcloud.com/theaipodcast)
++ [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL) 
++ [Chai Time Data Science By Sanyam Bhutani](https://open.spotify.com/show/7IbEWJjeimwddhOZqWe0G1?si=h6-BhMuBQ2mkw5rTHnhQFQ)
++ [Linear Digressions](http://lineardigressions.com/)
 
 #### Feel free to make Pull Requests stating why that particular resource should be added.
