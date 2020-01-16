@@ -105,7 +105,7 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Reddit - Deep Learning](https://www.reddit.com/r/deeplearning/)
 + [https://github.com/ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-# Podcasts to Follow Intresting Developments In The Field 
+# Podcasts to Follow Interesting Developments In The Field 
 
 + [The Data Skeptic ](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=gv3IrtPzQs6F9phaHDGpSQ)
 + [The AI Podcast - Nvidia](https://soundcloud.com/theaipodcast)
