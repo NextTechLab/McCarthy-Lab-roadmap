@@ -6,7 +6,10 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nexte
 
 # Primer
 ## 1. <u>Data Science Stack</u>
-> Best places to learn - https://www.python-course.eu/  , https://www.datacamp.com/ , https://www.pythonprogramming.net/
++ Best places to learn - 
+    + https://www.python-course.eu/
+    + https://www.datacamp.com/ 
+    + https://www.pythonprogramming.net/
 + Python
 + NumPy
 + Pandas
