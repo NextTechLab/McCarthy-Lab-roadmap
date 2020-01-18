@@ -107,10 +107,10 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 
 # Podcasts to Follow Interesting Developments In The Field 
 
++ [TWIML AI Podcast](https://twimlai.com/tag/podcast/)
 + [The Data Skeptic ](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4?si=gv3IrtPzQs6F9phaHDGpSQ)
 + [The AI Podcast - Nvidia](https://soundcloud.com/theaipodcast)
 + [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL) 
-+ [Chai Time Data Science By Sanyam Bhutani](https://open.spotify.com/show/7IbEWJjeimwddhOZqWe0G1?si=h6-BhMuBQ2mkw5rTHnhQFQ)
 + [Linear Digressions](http://lineardigressions.com/)
 
 #### Feel free to make Pull Requests stating why that particular resource should be added.
