@@ -1,6 +1,7 @@
 # McCarthy-AI-Roadmap
 Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
-Credits : [niladridutt]()
+
+Original repository : https://github.com/niladridutt/McCarthy-AI-Roadmap
 
 > Dependency Tree
 ![alt text](./images/Workplan.png)
@@ -29,10 +30,11 @@ Credits : [niladridutt]()
 
 ## 3. <u>Deep Learning Frameworks </u>
 + [PyTorch](https://pytorch.org/tutorials/) 
-    + Use [fast.ai](https://docs.fast.ai/training.html) as High level wrapper
+    + [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) - excellent resource for learning
+    + Use [fast.ai](https://docs.fast.ai/training.html) as High level wrapper (not recommended due to instability of the library and lack of adequate documentation)
 + [TensorFlow](https://www.tensorflow.org/tutorials/)
     + Use [tf.keras](https://www.tensorflow.org/guide/keras) as a High level wrapper
-    + Effective TensorFlow(https://github.com/vahidk/EffectiveTensorflow)
+    + [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow)
 
 ## 4.Reinforcement Learning - Libraries
 + [TensorLayer](https://github.com/tensorlayer/tensorlayer)
