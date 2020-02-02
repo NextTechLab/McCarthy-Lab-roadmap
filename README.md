@@ -120,4 +120,20 @@ Note : Learn from official tutorials/docs or GitHub repos which have detailed no
 + [Artificial Intelligence with Lex Fridman, MIT AI](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL) 
 + [Linear Digressions](http://lineardigressions.com/)
 
+# Here are five links that are worth your time:
+
+1. [This course will teach you User Interface Design fundamentals like whitespace, visual hierarchy, and typography (1 hour interactive course)](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/)
+
+2. [Learn Natural Language Processing with Python and TensorFlow 2.0. You'll build an AI that can write Shakespeare. And this is a beginner-level course, meaning you don't need any prior experience with machine learning. (90 minute course)](https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/)
+
+3. [How to approach your first tech job fair (5 minute read)](https://www.freecodecamp.org/news/how-to-approach-your-first-tech-job-fair/)
+
+4. [Your React Cheatsheet for 2020 - with dozens of practical real-world code examples (16 minute read + downloadable PDF)](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/)
+
+5. [A data-driven analysis of all the best free online courses that universities published last year (browsable list)](https://www.freecodecamp.org/news/best-online-courses-of-2019/)
+
+# Happy coding!
+
+<img src="https://nextech.io/next-tech-logo.png" alt="Next Tech Lab" data-canonical-src="https://nextech.io/next-tech-logo.png" width="75"/>
+
 #### Feel free to make Pull Requests stating why that particular resource should be added.
