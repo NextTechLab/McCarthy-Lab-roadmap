@@ -1,3 +1,5 @@
+<!-- Use the vscode extensions markdownlint and Markdown All in One while contributing -->
+
 # McCarthy-AI-Roadmap
 
 Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
