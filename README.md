@@ -9,7 +9,7 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.n
 > Roadmap
 >
 
-![alt text](./images/Workplan.png)
+![alt text](./images/roadmap.png)
 
 ## 1. Data Science Stack
 
