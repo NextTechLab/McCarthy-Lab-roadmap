@@ -2,14 +2,12 @@
 
 # McCarthy-AI-Roadmap
 
-Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://nextech.io/home)
+Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.nexttechlab.io/)
 
-Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/niladridutt/McCarthy-AI-Roadmap)
+**Note** : *This is a rough roadmap to guide you on your Machine Learning journey. We recommend everyone to focus on core CS principles and industry-standard tech stacks with a strong focus on Machine Learning theory and development. This might look overwhelming at first, but it's really not.* 🙂
 
-**Note** : *Please do data structures & algorithms, web development(full-stack) and AI in parallel because it's important and you will need it as you cannot put a system together with just AI* 🙂
-
-> Dependency Tree
->  
+> Roadmap
+>
 
 ![alt text](./images/Workplan.png)
 
@@ -28,6 +26,7 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 
 ## 2. Technology Stack
 
+* [The Missing Semester from your CS education] (https://missing.csail.mit.edu/)
 * Basic computer architecture:
   * [GPU vs CPU](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/)
   * [File Systems](https://wiki.microfocus.com/index.php/File_System_Primer)
@@ -47,14 +46,13 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 
 ## 4. Reinforcement Learning - Libraries
 
-* [TensorLayer](https://github.com/tensorlayer/tensorlayer)
-* [Keras-RL](https://github.com/keras-rl/keras-rl)
+* [List of active projects](https://github.com/kengz/awesome-deep-rl#libraries)
 
 ## Mooc Resources
 
 ## Data Structures and Algorithms
 
-* [Stanford ALgorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
+* [Stanford Algorithms - Coursera](https://www.coursera.org/specializations/algorithms) or
 * [Introduction to Algorithms (MIT 6.006)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [Introduction to Computational Thinking and Data Science (MIT 6.0002)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * Learn any one programming language really well and compete on Codechef, Hackerrank, HackerEarth, etc
@@ -69,7 +67,7 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 
 * Implement Machine Learning models from scratch using Python
 * Once you're comfortable implementing models from scratch, learn scikit-learn and compare performance
-* Practice on Kaggle to get your skiills ---> :sunglasses:
+* Practice on Kaggle to get your skills ---> :sunglasses:
 
 ## Deep Learning MOOCs
 
@@ -88,6 +86,7 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 ### Feel free to use any of these frameworks, all are not required
 
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+* [Full Stack Python] (https://www.fullstackpython.com/)
 * [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment?)
 * [Django](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 * [Flask](https://www.tutorialspoint.com/flask/index.htm)
@@ -123,6 +122,7 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 
 ## Deep Learning Books
 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 
 ## Mathematics for Machine Learning
@@ -139,6 +139,7 @@ Original repository : [niladridutt/McCarthy-AI-Roadmap](https://github.com/nilad
 ## Reinforcement Learning Books
 
 * [Reinforcement Learning – An Introduction](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
+* [Spinning Up RL](https://spinningup.openai.com/en/latest/) (Blog)
 
 ## Read blogs, Reddit, follow researchers on Twitter
 
