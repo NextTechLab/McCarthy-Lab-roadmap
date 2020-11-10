@@ -80,6 +80,7 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.n
 * [David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 * [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
 * [Practial RL - Yandex Data School](https://github.com/yandexdataschool/Practical_RL)
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ## Deploying/Shipping Projects
 
