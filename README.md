@@ -74,6 +74,7 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.n
 * [TensorFlow in Practice Specialization - Coursera](https://www.coursera.org/specializations/tensorflow-in-practice?)
 * [fast.ai](http://www.fast.ai/)
 * [Stanford University's CS224n - NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [DEEP LEARNING - Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ## Reinforcement Learning Tutorials
 
