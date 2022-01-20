@@ -118,6 +118,7 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.n
 * [Introduction to Statstical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) (A little more in-depth than ISLR)
 * [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf)
 
 **Note** : Learn from official tutorials/docs or GitHub repos which have detailed notebooks like [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) or [PyTorch Examples](https://github.com/pytorch/examples)
 
@@ -145,6 +146,7 @@ Roadmap to learn AI for associates at McCarthy Lab@[Next Tech Lab](https://www.n
 ## Read blogs, Reddit, follow researchers on Twitter
 
 * [Towards Data Science](https://towardsdatascience.com/)
+* [Toward AI](https://towardsai.net/)
 * [Sebastian Ruder](http://ruder.io/)
 * [montreal.ai](https://montrealartificialintelligence.com/)
 * [thegradient](https://thegradient.pub/)
